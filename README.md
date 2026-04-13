@@ -1,4 +1,7 @@
 # PanSlotMod
+
+![PanSlotMod](https://raw.githubusercontent.com/a-Bouchez/PanSlotMod/main/PanSlotScreenshots/Title/Qol-PanSlotModTitle.png)
+
 A Stardew Valley mod that adds a dedicated slot for the **Pan** tool. When the Pan is equipped in its slot, it can be used automatically on panning spots regardless of what you're currently holding in your hand.
 
 ## Features
