@@ -21,6 +21,11 @@ A Stardew Valley mod that adds a dedicated slot for the **Pan** tool. When the P
 ![Auto pan usage v2](https://raw.githubusercontent.com/a-Bouchez/PanSlotMod/main/PanSlotScreenshots/Gifs/AutoPanUsageVer2.gif)
 ![Config with GMCM](https://raw.githubusercontent.com/a-Bouchez/PanSlotMod/main/PanSlotScreenshots/Gifs/ConfigWithGMCM.gif)
 
+### Tool Upgrade
+You need to have an **empty slot** in your inventory for the patch to work. Once you have that it will automatically appear there and in the upgradable tools list.
+
+![Clint Upgrade](https://raw.githubusercontent.com/a-Bouchez/PanSlotMod/main/PanSlotScreenshots/Gifs/ClintUpgrade.gif)
+
 ## Requirements
 - [SMAPI](https://smapi.io/)
 - [Generic Mod Config Menu](https://www.nexusmods.com/stardewvalley/mods/5098) (optional, for configuration)
