@@ -1,7 +1,6 @@
 ﻿using HarmonyLib;
 using StardewValley.Menus;
 using Microsoft.Xna.Framework;
-using System.ComponentModel;
 
 namespace PanSlotMod.InventoryPatches
 {

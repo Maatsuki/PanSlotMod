@@ -24,6 +24,8 @@ namespace PanSlotMod
             helper.Events.GameLoop.SaveLoaded += (s, e) => PanSlotState.Load();
             helper.Events.GameLoop.Saving += (s, e) => PanSlotState.Save();
             helper.Events.GameLoop.Saved += (s, e) => PanSlotState.AfterSave();
+            helper.Events.Display.MenuChanged += ClintUpgradeSwap.OnMenuChanged;
+
         }
 
         private void OnGameLaunched(object sender, GameLaunchedEventArgs e)
