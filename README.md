@@ -41,7 +41,7 @@ PanSlotMod supports community translations! If you'd like to contribute a transl
 > For a full list of SMAPI locale codes, check the [SMAPI documentation](https://stardewvalleywiki.com/Modding:Translations).
 
 ### Current translations
-English and Spanish translations are provided by my. Community contributions for other languages are welcome!
+English and Spanish translations are provided by me. Community contributions for other languages are welcome!
 
 ## Requirements
 - [SMAPI](https://smapi.io/)
